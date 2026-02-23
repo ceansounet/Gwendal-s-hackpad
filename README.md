@@ -12,6 +12,6 @@ and here is the resulting layout, it needs to be pretty compact to fit in the 10
 
 <img src=assets/pcb.png alt="pcb" width="300"/>
 
-##BONUS
-
+## BONUS
+Since I had extra space and the kit comes with them, I figured I could include the rotary encoders inside a bonus version of my hackpad, while the main version keeps only 16 inputs to fit within the limit
 <img src=assets/cad_with_rotary_encoders.png alt="cad bonus" width="300"/>
