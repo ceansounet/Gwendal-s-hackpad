@@ -169,7 +169,7 @@
 	(net 50 "unconnected-(U2-GPA6-Pad27)")
 	(net 51 "unconnected-(U2-NC-Pad14)")
 	(net 52 "unconnected-(U2-GPA7-Pad28)")
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "03aada4f-f236-4ea3-9b66-da8dddc2bf61")
 		(at 156.35 98.932961)
@@ -225,7 +225,7 @@
 		)
 		(path "/c86c968d-8a74-4b5c-8160-a6bc48b21a58")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -235,7 +235,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d64633ef-1d85-49af-9444-80cda6108e5e")
+			(uuid "b5d405d6-d4a3-4e76-888b-80e1714429e5")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -245,7 +245,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "95fac5f7-a2f3-4671-88ba-3fdf48b43145")
+			(uuid "71cf2427-775c-4190-b41b-b6cfe5e89aa3")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -255,7 +255,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6184471c-997e-4d78-a642-475e7b5a23f1")
+			(uuid "871af8c7-cbbd-4c39-87b7-ac35e16d236a")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -265,7 +265,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2ad8924a-74a7-410c-9516-d8bee54e76af")
+			(uuid "d8892b4c-5bd5-428a-a758-7e90e354eb9b")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -275,7 +275,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2938a457-ae9a-4e1d-a65c-f7f1368a1514")
+			(uuid "c0a9f440-e4c3-43d9-b201-364cc9bd280a")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -285,7 +285,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "93c6666f-8dc8-43a4-8a24-83f8f0dba861")
+			(uuid "120e971d-f9ba-4df9-bfd8-88091aef5d6d")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -295,7 +295,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "29fef0e0-bdc6-4a37-909f-07ac3486098f")
+			(uuid "8206f3d3-f407-4603-96ef-1bc375b26ac1")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -305,7 +305,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e5f3b314-cec3-49ca-bc73-4a26dbcc805c")
+			(uuid "f4a3bb03-7bfe-4289-a67e-f7df460d16e1")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -315,7 +315,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "83e7e156-c8ec-4c97-bdfe-9d2f4a7ff163")
+			(uuid "2b427fe8-e0b7-43d0-9843-63c31a3b89ef")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -325,7 +325,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fc0f671c-13a1-473f-932b-42ba89d0f964")
+			(uuid "b7f0cf9e-67fe-4f7e-bf97-52b93612a485")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -335,7 +335,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0cfd39d5-5e7f-4ba2-9132-89aa38862571")
+			(uuid "c95294d7-f15d-41d5-8ddc-e8f483040fcb")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -345,7 +345,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7e7e91d3-9095-4277-9007-5d10713828f0")
+			(uuid "ac32b8bb-68ed-44e8-b003-7b16302a49dd")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -355,7 +355,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "28b939f1-6f70-4ade-a48f-e24f91316788")
+			(uuid "934a2933-05e7-4a26-a4a2-20f2add68ccd")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -365,7 +365,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cbed836e-a140-4586-8bfe-226aa52a9ae7")
+			(uuid "57caed46-95a8-4146-947e-02ed5e5d214e")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -375,7 +375,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "94d60d7f-eecf-4683-a875-fd33604534f3")
+			(uuid "dc3648be-c2d3-4344-83c7-13cc315424a2")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -385,7 +385,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "da47c90e-2248-4342-994a-4b627d72357a")
+			(uuid "1b63df66-bd9b-45c8-ac0f-9088c3140980")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -403,21 +403,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "99b86a3f-9c81-4854-bd85-dec55a4a63d1")
+			(uuid "2378bc86-5535-4f37-b5f4-b19197842c81")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "230af295-3145-492c-b722-e36b4524ae47")
+			(uuid "8a7003af-3e3d-49f9-abe0-30683a130477")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "01fb6545-3be6-40fd-8cfd-1bfa98858dd9")
+			(uuid "7ae8c8ca-fa8f-46a1-8fce-85c52513aa58")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -442,7 +442,7 @@
 			(uuid "9aa7880f-0807-4809-bb96-1b14d1f962e1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -454,7 +454,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0a730dba-7ed3-4079-9ee9-d1e501659fda")
 		(at 118.126 98.932961)
@@ -510,7 +510,7 @@
 		)
 		(path "/a771ddc6-c290-407b-becd-55f898aed267")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -520,7 +520,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f0b3fc69-4c49-4c55-aba5-28b85a5e9333")
+			(uuid "99ca2a4d-ba2e-4d37-8766-272490c86634")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -530,7 +530,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6473f6eb-a7f0-4069-a3f2-f69499302051")
+			(uuid "ce42a8d5-9710-44ca-8900-5f019ee8d279")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -540,7 +540,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "db0b0af6-c2ff-48e9-99de-e9c4315df4a2")
+			(uuid "c21a520c-3e0a-49ff-a3c7-0a90747bc757")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -550,7 +550,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd0d1c83-9f0f-47fc-b0dc-268f9b6501cf")
+			(uuid "261c1e63-023b-4d53-a066-3f8ddec6b29a")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -560,7 +560,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dc04aae9-8a6e-457c-9fe2-bfa59ad79c29")
+			(uuid "725eb33c-58ef-4c09-a684-1f571e1dc6d9")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -570,7 +570,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5f116f0b-81c6-4e15-b11c-33309d749a46")
+			(uuid "c9bd8f2e-3ab7-44e5-8e90-3a05b9b92d72")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -580,7 +580,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "23cb0071-7fa8-47ed-a105-588bb71110ac")
+			(uuid "220a260c-b37f-4aa8-9855-c84bf4edf29a")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -590,7 +590,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "34fad774-af58-40c4-a138-ddb6e637dfdd")
+			(uuid "9a6c1aac-05c7-4563-b8ca-261855210f6a")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -600,7 +600,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fd33f6e2-13e5-4539-8816-388175f6aa87")
+			(uuid "c8bd3b64-9c00-4525-b4c8-fda4bee3c91f")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -610,7 +610,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "03bc8d3b-461d-4751-8ee2-f3522fbb6cca")
+			(uuid "fb6079d8-ed36-4861-8126-47e8f9ff47b4")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -620,7 +620,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "76f3d9c0-9973-4e48-844d-f958a257beb8")
+			(uuid "80c7e5df-d89f-48c7-9c03-05d1e259893f")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -630,7 +630,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "54253467-ce34-40f0-bb57-37de022998c9")
+			(uuid "ab203c3d-92f8-4ed5-88bf-987c267bd92d")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -640,7 +640,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "13bc8e1b-f0c3-419b-a721-9a0897ac0af2")
+			(uuid "9fc26934-128d-460f-8406-08cedabd3cc6")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -650,7 +650,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "10886bec-9fec-4948-a689-2c81c045ff3b")
+			(uuid "9a025013-ed00-4126-8266-32d88cd77fae")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -660,7 +660,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6cc5a452-1de1-442c-9e14-aefd94473eff")
+			(uuid "a5a77842-ca4f-42c1-bed0-e3e6e28741a7")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -670,7 +670,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7f5a53fd-0681-433a-b132-64cc12141c65")
+			(uuid "4e756a2d-6bc3-4d92-b604-18e7a744b9b9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -688,21 +688,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "bd05d9ae-e9ac-45d2-bb71-f014e462ed16")
+			(uuid "88e06e95-d142-472b-b4ba-db04ca23f6c3")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a1e35fc6-9da4-4eba-be22-cec7be35eb6c")
+			(uuid "2c784d2e-fee7-4265-b7e5-1b9a08cd549d")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "3d7e6451-8de7-4ede-be79-311301372eff")
+			(uuid "943eece5-fd76-4fa9-948a-7fc703920881")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -727,7 +727,7 @@
 			(uuid "a4b08200-9236-455f-855e-3dc2fab77260")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -739,7 +739,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0a7b4027-513f-4646-8565-9b8338d92bfb")
 		(at 137.336 79.675491)
@@ -795,7 +795,7 @@
 		)
 		(path "/1678a406-8723-4f32-bdb2-89a75f9fd24d")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -805,7 +805,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b09ca7f5-b2e8-4a37-b1b6-5bc36528dabd")
+			(uuid "7ea89cfe-6278-4224-81ff-2589a8f684b2")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -815,7 +815,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a987a8c4-f4de-4422-be9d-cb359e548749")
+			(uuid "31f32ab2-606c-4375-8545-f85a422efd8b")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -825,7 +825,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "acdda44d-e565-472b-92b2-abe5b0ab71fe")
+			(uuid "9aa0312e-47b4-4772-8ffd-794eaa11dd82")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -835,7 +835,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ccd25ed9-2231-4eef-b9d9-5acdfe6efd40")
+			(uuid "51bf3f5f-ab59-4716-80c2-46955a34b81c")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -845,7 +845,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "47ee41fb-8bc8-43e7-a962-3814a4f61f7b")
+			(uuid "168325d1-4198-4de5-9399-dbbaa99322f0")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -855,7 +855,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d47ef7be-d92c-4300-9fdd-4d88c9e9c226")
+			(uuid "cc066f90-5408-43cb-92e6-65bb4276966d")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -865,7 +865,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ec5dcd34-9554-4000-831e-7cb89dfc9967")
+			(uuid "dc87311a-ca94-4140-a8c5-e6e8d7651cfc")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -875,7 +875,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "571bdf30-1868-4270-b80e-54e60d4d513e")
+			(uuid "d7ec3208-c504-40ee-ab0b-394771a50f6c")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -885,7 +885,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c7c31ce2-0720-4390-ad06-db44e555ad2c")
+			(uuid "f3ae3fd5-63cc-4e7f-8090-b06694455bf6")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -895,7 +895,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "204c5a6e-1472-411f-a4bc-05ec1b671fe8")
+			(uuid "82eecda8-87a0-472e-9709-1d7f3428a5ee")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -905,7 +905,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "79ec6a15-8ac0-4d0f-87f5-3a2eaa8a31b2")
+			(uuid "705d3d5a-a966-47b6-817e-3b9d9613c2b0")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -915,7 +915,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "081719b3-bd3c-4cc9-aa6f-0852bfc47905")
+			(uuid "44e7563f-f793-4f1e-bbec-d9ccfd3ca987")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -925,7 +925,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "272d0edf-f474-4c4b-a87f-c0899812fbf2")
+			(uuid "9d17470e-0f6e-4bcc-8298-4a303baa9d2c")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -935,7 +935,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "09edff40-8dc8-4811-9644-3b17d8104516")
+			(uuid "f8d0cc9f-7881-4562-b2bd-b5274c6c4b3c")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -945,7 +945,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "490835b6-891a-4af6-8459-011ab9b39ab0")
+			(uuid "37ba2713-de6b-4504-ad2d-62d29033b2e4")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -955,7 +955,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0e106330-80f2-4458-adad-fad116be3b74")
+			(uuid "999d6e2a-9334-4128-9629-b976e5996946")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -973,21 +973,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "8ee41c18-1641-477a-964d-6941a212ccb7")
+			(uuid "2742259e-8ff2-40bc-8629-e4e23a86ca9b")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f1c570f0-6930-444f-94a9-48eb5a767420")
+			(uuid "d0f66cdc-b696-49ba-a23b-c1caab9827b9")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "72b2c62d-4c57-4b64-b360-7b40c426c8ae")
+			(uuid "33c7e18b-bb1c-42f7-a26e-35946eafc0be")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1012,7 +1012,7 @@
 			(uuid "46e06dba-4fec-4fc7-bed9-d77c08044ca6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1024,7 +1024,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3dd846f2-0447-4b1a-aff5-398f8bd295f7")
 		(at 137.336 118.022961)
@@ -1080,7 +1080,7 @@
 		)
 		(path "/5d15da34-8df1-4e35-8ec4-4595df7ab51f")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -1090,7 +1090,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cbd420aa-4374-4ade-b737-5eba16601b0d")
+			(uuid "4777f67a-349b-401f-aad9-0e6c79a2ebb7")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -1100,7 +1100,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1ebf3ca3-01cf-4c6d-afb4-a8e1150cb77b")
+			(uuid "f2cc1a24-446a-4363-a3bb-16bf1f93f355")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -1110,7 +1110,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2cc056d6-946e-45df-b943-ce6423a7e4f0")
+			(uuid "b5725820-a744-439d-877e-c66954aa6863")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -1120,7 +1120,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c00fa3d8-9e18-4982-badf-3278b9e64cbe")
+			(uuid "9be9d9e9-10f1-4ffb-9bf3-b4878b0dbaf5")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -1130,7 +1130,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "aff5106d-ea10-4628-b5fa-bfbd86ce3154")
+			(uuid "27b15c35-878b-4d58-9d7b-0d5f7a9a674f")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -1140,7 +1140,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "543b5ef3-7688-4d16-812c-296db8472bc6")
+			(uuid "eec405a0-2cbc-4800-bafb-7caad98044b7")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -1150,7 +1150,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "626a036d-2d19-4905-b2b7-6a65cbc1e50a")
+			(uuid "e7a51352-e049-433c-94c1-18e60e9a17e2")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -1160,7 +1160,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8a76fe31-ac73-41ca-99ee-410fb617b21a")
+			(uuid "b3be6c48-3a4c-4085-bd0e-387a4660fb9e")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -1170,7 +1170,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c96cdbff-19e1-4947-98af-dbf4d7f7cd93")
+			(uuid "da7ccfa7-6d40-475b-9971-cb6e54fa7ef5")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -1180,7 +1180,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "aa471300-87ca-4fa8-91fb-477abc51310d")
+			(uuid "a0e833b8-4cf4-4e01-a4e1-605f4f308106")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -1190,7 +1190,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5da4a263-b887-4b9f-ad03-59bd6e35aa1c")
+			(uuid "2d4eb670-fb44-47c4-b4f7-a64b34affd22")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -1200,7 +1200,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0484c8e0-1d1a-4294-ab36-5191c11d1ef8")
+			(uuid "bd7261c6-8ca2-44f4-9878-8328e175d2e6")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -1210,7 +1210,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a1447ec3-89bb-4adc-b3d7-aa0a3444ef73")
+			(uuid "3c2aff28-5feb-4df6-a929-42a210959a1c")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -1220,7 +1220,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cf2880e5-f06d-4384-94dd-2a74e1be9f61")
+			(uuid "c71e38a4-8d9a-45e1-8b0b-5594ef1696c4")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -1230,7 +1230,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b112ab27-48db-427c-82c5-307e7d457960")
+			(uuid "e363993d-d03a-41c3-97f3-06ddfc49af1f")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -1240,7 +1240,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e3822338-da85-4add-8f90-f317f58a9c92")
+			(uuid "096b62ef-4f74-49c3-840b-2f6572b4a711")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -1258,21 +1258,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "86e95ef0-4b16-481c-ba49-eac9daa6cf1b")
+			(uuid "f6bca51e-401e-44a6-bc03-8d5512e1c001")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "6a4b47c3-f839-430b-b2ff-38b9b248a721")
+			(uuid "7b86655d-9d1a-4fff-87fc-e43ff9d3f0fb")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a1846a04-1d52-4393-9e50-acbc4c79b164")
+			(uuid "11058bd8-9c8a-42f8-8358-dfdd1d7c0505")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1297,7 +1297,7 @@
 			(uuid "cf1d0f86-1878-4b3c-90b4-da0c3e300f3d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1309,7 +1309,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "452f1c58-6488-4ce4-8ead-118ce3d8fe0f")
 		(at 137.336 60.508021)
@@ -1365,7 +1365,7 @@
 		)
 		(path "/675f2888-2c98-4d89-b810-1246a1e82088")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -1375,7 +1375,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a229e216-94e0-4705-aabf-0ff187390652")
+			(uuid "994c1f4c-9de3-41f3-ba3b-262f6a753361")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -1385,7 +1385,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "50bc150d-68a5-4344-ad0c-c1beb9e4bfd1")
+			(uuid "c0882702-8db9-4e3e-b48b-86414298babf")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -1395,7 +1395,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "54fccfe9-a59d-4554-90a2-8ce63514ee69")
+			(uuid "53bf49b7-5727-45f1-92de-8e05f298b02e")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -1405,7 +1405,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1faac784-425c-4853-95fa-cc6f4fd1dac5")
+			(uuid "ed2fca4f-f565-4a28-a356-db7e1f1d568b")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -1415,7 +1415,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3a6f3ff7-d793-41d3-b9df-f5adf5978969")
+			(uuid "c360d176-918f-4265-a9ad-41491505a152")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -1425,7 +1425,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ac057522-d1a1-49b7-86e8-4bc13f3c8b6e")
+			(uuid "aa0cf5e3-108a-4def-899c-5900b04543cb")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -1435,7 +1435,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "16434c5f-a7d5-4daa-9106-cbef7aa2e600")
+			(uuid "5ef4a628-0c62-4ee4-b6cf-bd0926202d4f")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -1445,7 +1445,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e4c5d751-9935-41d5-a7d1-83d18133384c")
+			(uuid "0eedb714-a57a-4aff-9e98-3a4f0d2f2965")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -1455,7 +1455,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "29fa3592-c606-4bbf-93ca-d2ff0b1c2bbe")
+			(uuid "80ac7f7e-48d5-4414-a255-8f4586a6cf11")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -1465,7 +1465,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "33a2b6fd-4488-43b1-9d30-1fc6a45b6394")
+			(uuid "91a8ee25-67e3-403c-aca4-d3ba2b16b8c2")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -1475,7 +1475,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "22325a27-1374-4152-94c8-abb3dca0fe6d")
+			(uuid "160b5dab-14c5-4e0e-95b7-cb71e72e59ef")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -1485,7 +1485,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "23da9b38-013e-4f34-8c44-07fb41536ccc")
+			(uuid "e68b1c02-e8bb-4d34-9ea7-cb210d93aaed")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -1495,7 +1495,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ea402a6f-24f8-4039-a737-5855a415e6fe")
+			(uuid "8d3d263f-8cee-4b0f-912f-fff6f2bfb289")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -1505,7 +1505,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6113e309-9271-4784-8d67-c2ce599bb6e6")
+			(uuid "ba5596fb-c703-4a83-ba61-4a79b7c55890")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -1515,7 +1515,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d26c7810-647b-4ec8-a56d-ba94117a023d")
+			(uuid "f362982b-1ff8-44bd-993c-a1248487cb85")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -1525,7 +1525,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0cd3a6c3-be9b-4ae6-ada5-66a2a78f1cbc")
+			(uuid "34ebbd34-2593-4145-b781-d1c947db09c0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -1543,21 +1543,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "53e622e4-0bea-4f1c-b444-cbb0449264d3")
+			(uuid "24604b19-c213-4651-9ff9-dec12105259f")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b6aed3da-5160-4946-a592-b0d338df263e")
+			(uuid "e1b08b1f-85c6-4e6c-9c75-8a8ad4e5e975")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "6e34e49b-0493-4ed4-8484-af9eba8beacd")
+			(uuid "9bdffd0d-d0a1-4267-945f-b2e39a36f950")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1582,7 +1582,7 @@
 			(uuid "ee457a27-29b8-42ab-8706-75e0f2f65543")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1651,7 +1651,7 @@
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/86ba7544-7954-485a-893e-bbca0e7250c4")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.5 8.4)
@@ -2010,7 +2010,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4c76ca25-52fa-4be5-a367-de261711aa24")
 		(at 99 98.855491)
@@ -2066,7 +2066,7 @@
 		)
 		(path "/ce059868-1811-40b9-8598-a81b794e190b")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -2076,7 +2076,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ac900cae-e1c5-4d96-aa66-65c0dc04d795")
+			(uuid "5456daed-d10a-49a2-93e0-f9c0d3ce26c4")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -2086,7 +2086,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0defc2b4-7331-4e2a-8ff6-3a3526988e7a")
+			(uuid "9114b398-df3e-47bb-a2ba-c3c9306a40cb")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -2096,7 +2096,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c26473d8-0f8e-4a81-82b6-a25070c766ef")
+			(uuid "bbc2ad9c-a626-404d-8089-6b2d3de6bdd0")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -2106,7 +2106,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1ee41576-12c2-4bf8-886d-9ce78f4c3ad7")
+			(uuid "d3f34c46-66ce-43e3-bf36-b73a9679af67")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -2116,7 +2116,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ec9c7ed7-d1e2-4c73-a6b9-78b062805544")
+			(uuid "d5cff3a3-76ed-434d-bcf4-08c314fa486a")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -2126,7 +2126,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e28a0869-395e-46c6-b6a8-016c344d47e1")
+			(uuid "9871c873-b61e-4654-87a6-5b2ea32b63f3")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -2136,7 +2136,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dda2ad73-c70b-47e6-b25d-66918b8f841e")
+			(uuid "058ef22b-ab01-48eb-83c3-da231f743627")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -2146,7 +2146,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ececbe4b-94ee-468c-8bb2-3abfd839cd3a")
+			(uuid "59fe4394-6e26-4597-b8ef-a064057d9b2f")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -2156,7 +2156,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "92ce8718-d8a5-41b3-905f-5d0b35645c05")
+			(uuid "e1e81a39-3510-42fe-a06d-f629d4eaced9")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -2166,7 +2166,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "74b6b6d0-8fb8-4942-bd98-c5fac231ad79")
+			(uuid "54721c89-18ba-483e-bded-ac417f99af6a")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -2176,7 +2176,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "50dc3e87-8ee8-4ab4-ad33-08d760134955")
+			(uuid "ec6cd63f-4434-42bb-9496-77d99336e085")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -2186,7 +2186,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e139fda9-45d8-4b11-a355-5bfad06cfbf9")
+			(uuid "fc65f2d1-4248-4e70-bea9-ef13b216a2a3")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -2196,7 +2196,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "28b51c15-17c9-4a9f-9f99-7f12c2d0d98e")
+			(uuid "aedb9a3a-6498-40d2-9048-a001c2b74487")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -2206,7 +2206,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b57c0729-c727-497e-9a95-d744b34b58b1")
+			(uuid "95bc9d46-d92a-4456-b5ad-e42340d10049")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -2216,7 +2216,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a2db1cc6-a721-4cd5-90f3-35d81b3e15d2")
+			(uuid "cfe3a22e-963c-4ab2-872b-1d233de695ba")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -2226,7 +2226,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "440ca2ec-927b-4199-8c8b-1c719f30cc89")
+			(uuid "48b8ceb9-44de-4724-b16f-d398801f114d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -2244,21 +2244,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "2728eba3-a0bb-471d-aff6-ca695c8ac308")
+			(uuid "721525c9-f9c5-478a-9279-1485e603bac0")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "6efc21bb-1312-4d67-a79e-b944e83c2002")
+			(uuid "0a401bc7-fca0-498e-ac6f-0ae193bce969")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "5f0d9fbc-e9c1-465c-8332-f8d325f6ced2")
+			(uuid "43e984e2-1c93-4784-bc62-006d3fefa821")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -2283,7 +2283,7 @@
 			(uuid "d9ae4908-8c15-4809-adaa-70d67f797131")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2352,7 +2352,7 @@
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/1fe85e91-cf47-414b-9548-c0bce1104a71")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.5 8.4)
@@ -2765,7 +2765,7 @@
 		)
 		(path "/49cfe9e1-5256-48cf-b27a-14492750c93a")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -6.9 10.5)
@@ -5711,7 +5711,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "97ae929a-8ec6-4efe-b0f3-712bcc02ec3a")
 		(at 118.126 79.675491)
@@ -5767,7 +5767,7 @@
 		)
 		(path "/15229dd8-aaf1-43ea-b8d0-2d40ec1ccead")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -5777,7 +5777,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "676a864e-2a9a-44c9-bd69-b1f91d430552")
+			(uuid "2f7fb3df-69f7-4455-ba8f-fe145ea9980d")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -5787,7 +5787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e31cb0ab-b7ac-48d5-9c15-546048af6164")
+			(uuid "42911536-3104-4e74-bafa-e149db148bce")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -5797,7 +5797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5abb711e-f94e-4612-b0c1-35b3001b6a9f")
+			(uuid "6aef78a9-7478-466f-a813-f8d4e04958a7")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -5807,7 +5807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c795b22-01dc-4d61-9602-0ffd737fdeb2")
+			(uuid "0e3f4775-88ec-4289-9266-3cef3a184b45")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -5817,7 +5817,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cd59a3bc-f58a-469a-8549-fddbd5801a40")
+			(uuid "bccd8077-1524-4350-96a0-fe337c4431ca")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -5827,7 +5827,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e7b8c236-ddfc-4b4b-a7de-679ed6c0a686")
+			(uuid "2d92d151-412d-45d8-8df2-17520a1fa507")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -5837,7 +5837,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "145b950f-4408-4f91-8bfa-57880f10b0b1")
+			(uuid "6c54a11a-7943-434c-8cfd-a9425a98bc90")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -5847,7 +5847,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cb2db873-7762-4449-b04e-d8061579548a")
+			(uuid "27920ee6-c84f-48bf-b18b-2024a53ef670")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -5857,7 +5857,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c6b3f955-c5f0-4800-a9e2-0bb0a50e338a")
+			(uuid "4cc1b591-51ac-4e49-9e65-c602ee81c526")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -5867,7 +5867,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6cb609f3-d4e8-46af-adca-c64c40df4288")
+			(uuid "c53eda9a-5607-4802-8e41-4ce9074b832a")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -5877,7 +5877,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "48905836-24f6-43b3-8a18-9a2152920b1a")
+			(uuid "209e6df4-e939-471f-b402-169e7765b3ce")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -5887,7 +5887,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c6d14b99-87c3-46e4-a0bc-d40559c89861")
+			(uuid "acec2216-f5b2-46ae-8290-024e8a46a644")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -5897,7 +5897,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8099bcce-2d0b-4221-a644-fffdea4e8281")
+			(uuid "d427991e-3fd0-495a-b7f2-2f3dfc1a74b7")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -5907,7 +5907,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ce284d49-2359-47c1-b81b-64661e55a53e")
+			(uuid "235bc0dd-8f9f-4fcb-878d-76f0cb5e51d3")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -5917,7 +5917,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2d7d44e1-1e37-45e9-bfcf-510903eda75b")
+			(uuid "a5dbba0f-4420-49e6-a6bf-39858407818d")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -5927,7 +5927,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "054b387c-7391-43bd-8e19-d7bd3abea064")
+			(uuid "4392127d-5927-4dd1-85a6-9161705ef016")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -5945,21 +5945,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c937ea0e-4318-4e12-84cc-d7cacb186897")
+			(uuid "a61cd473-b85c-497c-b3ca-f3227e234802")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "25542b2e-d13d-4421-a2b8-55ef7b906867")
+			(uuid "6ff1eae2-1842-4bf0-a5fb-c76f40b9cbce")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d3c9c44a-8d0a-46e0-8d07-61316ec0ce8a")
+			(uuid "39ab7855-4ad8-4041-8b9f-2416ba399b47")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -5984,7 +5984,7 @@
 			(uuid "33073f89-d583-48af-a2cb-bd8d4e4b4b86")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5996,7 +5996,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9e355c73-56df-4139-80b2-8f78aef07b5a")
 		(at 118.126 60.508021)
@@ -6052,7 +6052,7 @@
 		)
 		(path "/ee0a7d3e-4ad3-4743-872d-7ed89175c496")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -6062,7 +6062,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "678f20ee-9ca0-4440-ba29-a46262eb89b5")
+			(uuid "c184df7c-1bd2-4f33-9bb8-e51c1e6cb772")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -6072,7 +6072,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "91da7f89-61d2-4cf4-8e54-95a4e5c2c2f9")
+			(uuid "25d07463-a01b-49cd-b02e-01a625b313ba")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -6082,7 +6082,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "15601446-873e-465f-ae38-daa8d6ca9901")
+			(uuid "af4c41e2-a783-4278-adfd-9b52589b578a")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -6092,7 +6092,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e7839d9c-0652-4422-b113-445b13aef981")
+			(uuid "498e0e8d-d053-4a85-97fa-a7fe4fa7d227")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -6102,7 +6102,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0e6f095e-dcd4-4df8-953c-69b8ab858cc4")
+			(uuid "b5cf6786-4a9c-400c-af6e-70451d154f7c")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -6112,7 +6112,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8450bda8-f092-4535-96fe-97750d2387c7")
+			(uuid "f2552fd5-256f-46cb-a162-6ba340630a3d")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -6122,7 +6122,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c3637176-0b60-447c-a73c-ae0c765cdd83")
+			(uuid "a85b169c-9fe3-4dd9-acd4-fb1984f15bfb")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -6132,7 +6132,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d207f9ec-ea23-4eda-b89d-50e3b65c8056")
+			(uuid "7493afdd-f74f-4926-acc8-8ce72fee35c4")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -6142,7 +6142,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "edc1be6a-40d5-4654-b9e9-f1a4a006ddea")
+			(uuid "6fc11c34-5f4d-4c7c-b2b0-ea0ee740d398")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -6152,7 +6152,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "880cc72a-7661-4fec-ab4b-be4261bc44f5")
+			(uuid "20d8380a-a0da-4dc9-8800-69dcc3917e4e")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -6162,7 +6162,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b56e89e4-2dcb-42c2-8255-6b43ee2f2477")
+			(uuid "75d23c6b-786e-46b6-9cbf-7527e1eaf7c9")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -6172,7 +6172,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e52ee47e-a629-4760-a2ec-1541fb8f8c52")
+			(uuid "19befc7d-41bd-4a2a-b849-17177acd3df6")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -6182,7 +6182,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "70f15600-eb6d-4ab0-b3e8-11e18400a5f3")
+			(uuid "011e583e-8720-4040-bc00-978c83a9c8ef")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -6192,7 +6192,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5613b13c-d4a6-4041-81da-0fe7a0a93607")
+			(uuid "6271591c-a948-4a73-9b13-e6071baca2ad")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -6202,7 +6202,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "561369f0-6959-4338-ad38-5be45f388ee5")
+			(uuid "83e406ce-d358-49dc-a6b1-1a5ed6173b56")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -6212,7 +6212,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8b66e41a-b1fd-455a-ae43-5bf119cd49f9")
+			(uuid "9ce4e092-1a0f-4432-a9de-10b1efe712ca")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -6230,21 +6230,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0de757a0-f3e8-404d-b711-d146f3866d73")
+			(uuid "d50a6723-a6d9-46b7-ada4-54dc5343b8d5")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "961ac28c-0565-45bc-b2ef-e80017d628d1")
+			(uuid "85029071-7f6c-4167-a91b-2663dfb0117d")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0242aac5-c0e5-4b69-8b37-9ed8c94b15df")
+			(uuid "e66c6075-6c7b-418b-92c2-baa7416318ae")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -6269,7 +6269,7 @@
 			(uuid "dd66ce68-6df9-4ecd-bbb3-9a07a3ee4a2e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6281,7 +6281,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b31dab9b-3c38-47db-90a9-406a582fdbb1")
 		(at 137.336 98.932961)
@@ -6337,7 +6337,7 @@
 		)
 		(path "/5713a764-7941-4884-b09a-33b646802ae5")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -6347,7 +6347,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0ed159da-8562-4abd-9e02-4e1dfce5182e")
+			(uuid "00bb7596-a431-4ddb-96c2-003559b717af")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -6357,7 +6357,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "322722c8-12ba-4ad2-8e0f-9f7c3896ba44")
+			(uuid "ac907871-c40b-4b2d-a1aa-f401b2712148")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -6367,7 +6367,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "43ec2016-54dc-41ba-95e6-4267704f5678")
+			(uuid "b885359b-a56a-4584-b4f1-09ea76822ef2")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -6377,7 +6377,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8cd7069a-115f-4c42-8ad4-c2590c3afe99")
+			(uuid "7bc0f949-4b4d-48a7-88c4-18abd687a7ec")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -6387,7 +6387,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c55c5a6d-6173-41e9-bc73-46fea5580461")
+			(uuid "065ef8bb-0ea5-4a0f-afa6-2009db28af70")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -6397,7 +6397,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "28212d3d-98b8-42ba-ab3e-b972c7104e70")
+			(uuid "a316dbf2-4ced-47bc-a4d2-a52babeacfaf")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -6407,7 +6407,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7a62634e-9bc1-43db-b9e3-c59ef3b0ba87")
+			(uuid "b5970922-1b85-4492-9970-cd4b2a6ff989")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -6417,7 +6417,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "465bfabc-f4a7-4c7e-8f0d-beaf5ee06a60")
+			(uuid "219c0dc3-313c-41dc-bf14-df1f205e847e")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -6427,7 +6427,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "971e379a-a90e-4629-9045-1552a92fc2e5")
+			(uuid "32f55c20-fb1f-4f48-bdeb-a10c44e43464")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -6437,7 +6437,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "09bcaa99-45b3-4b0f-8b81-0e9e920474fe")
+			(uuid "2ff5193f-69ab-45cb-8fb0-1cc8a40cd55f")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -6447,7 +6447,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e554f5a7-9e22-4d33-98dc-1c77552be87a")
+			(uuid "f8b94f71-ed74-49cd-98d9-baee7a93557e")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -6457,7 +6457,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4e4f3012-d7f4-4c4d-ac7b-3c8eee11444d")
+			(uuid "273ef252-b9b1-4489-9908-cbdb79d01747")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -6467,7 +6467,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "36ee8b18-f745-4a8e-9ab5-e72aef072f33")
+			(uuid "dc20d424-87be-4005-9aaa-75c56b5a9ce8")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -6477,7 +6477,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1de79395-6171-4867-bd47-b092f550c24b")
+			(uuid "89004cd1-72b0-4f8b-b4ea-75e059913b16")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -6487,7 +6487,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "197254d2-acd4-45f6-a6df-b69ad46ac74d")
+			(uuid "62c6c9d8-cbe5-4a08-9d5a-58f4328b902f")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -6497,7 +6497,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0165e2e4-5f9d-403b-9d45-0c8f254e10eb")
+			(uuid "ac63be9b-830c-4c30-8778-517ce84ff34e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -6515,21 +6515,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "48d7b2bf-444c-4b1f-97f4-d37390bef2fa")
+			(uuid "3f2b8212-e2c7-4c99-8e71-0acb31d72950")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "dd558d91-35fc-41de-94fd-c6270034e98e")
+			(uuid "9e9cab92-e352-42f5-813f-642a0c8740d1")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "74301618-5a91-4bc1-8833-456c667a6741")
+			(uuid "3d1a4524-8060-4a89-8440-4c433bf22b9b")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -6554,7 +6554,7 @@
 			(uuid "2e2ed48f-915a-4dd0-b21c-9fd04ab1f470")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6566,7 +6566,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "ba8b0867-6463-426b-99f0-9575c1fc5682")
 		(at 156.35 118.022961)
@@ -6622,7 +6622,7 @@
 		)
 		(path "/83a5ae97-4387-4fcb-805f-53cabfcc1aa9")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -6632,7 +6632,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b5c9b42d-f46e-49b8-a5ca-253a2acf1ed3")
+			(uuid "454e42c8-7c78-4423-9c65-b80e86a4c76b")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -6642,7 +6642,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eb844bc6-6ab0-4023-9069-74f767b97b41")
+			(uuid "c330d256-55e0-4e32-96d3-f2f7dfbe3c56")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -6652,7 +6652,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9e9795f4-d4be-4013-ba7f-afdf45ec0574")
+			(uuid "d6c114b0-8db7-4a65-a0b4-f8b234dfc5be")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -6662,7 +6662,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "62e87fe6-8046-4d7d-bd6b-ecbca33de81f")
+			(uuid "bd7a1fd7-210b-41d5-9976-89730db88639")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -6672,7 +6672,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c41d6881-5898-4cc9-9c77-c7cf8ce0e41c")
+			(uuid "1126edbe-a887-4fbf-b5c1-769092f88f2b")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -6682,7 +6682,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "520af7e6-ffa0-4dee-aebd-0b2cb518cee8")
+			(uuid "aa96df0f-d6fe-49e0-81b2-82e162c643ef")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -6692,7 +6692,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3463cd69-bd9a-4ce8-b970-d4965df88d3f")
+			(uuid "ac53dbd1-afc8-4aa3-a00e-14fe9af64a58")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -6702,7 +6702,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "44157557-a827-46f4-acd0-00ae2047dfae")
+			(uuid "1ce9f3ec-5525-433d-a663-1f6c6e6496f7")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -6712,7 +6712,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b32894f6-5976-433a-92de-0e2c399fba2f")
+			(uuid "ee0265d8-5665-4a1e-a547-7b3ffc77be7d")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -6722,7 +6722,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "38ca8477-dc75-4d38-8718-7e3df27b4d08")
+			(uuid "88addd0f-2fec-4f5f-a116-7bc98eb4b08e")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -6732,7 +6732,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "09141a00-900b-4ac3-949d-a7bca5807108")
+			(uuid "842ab132-63a8-47ff-aa59-c185cf2acf02")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -6742,7 +6742,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2892c1c3-3295-46a3-9965-cc5c609f2dea")
+			(uuid "de9ddfbe-0667-47a4-a326-681c954c3896")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -6752,7 +6752,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d599b7a4-276d-4266-bbc9-2bf33ec0199d")
+			(uuid "0238cfb7-1858-4f4b-bd65-2f5557151bc9")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -6762,7 +6762,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7daa0676-c162-40de-8c19-2d01cece1a68")
+			(uuid "d51c19dc-89c3-432f-bde6-25f9dcff3910")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -6772,7 +6772,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fca80a12-ec92-4d70-85bc-e6999aa02eed")
+			(uuid "5152d206-b719-4362-a708-026442c2eeac")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -6782,7 +6782,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "84f2da3f-9106-4944-9ef1-58b1d2d89ac4")
+			(uuid "37327fef-fbd7-4392-913b-c31849c1e586")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -6800,21 +6800,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a8e3db21-83be-4423-beb4-a3615e3b1b8d")
+			(uuid "7d2b46c2-1b4a-4bba-b537-2ee618474a7c")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7d5f196c-1d38-46df-b345-6a2649173688")
+			(uuid "d2fbf866-7197-497f-b236-0b169529a7cc")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1e3692d4-61ec-4824-80d1-9153abbe1f0c")
+			(uuid "579291d6-cda1-4673-9117-d0ee3afcf436")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -6839,7 +6839,7 @@
 			(uuid "6d064bdd-09f1-4e42-bd4f-53110dd2637f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6851,7 +6851,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "c711ea3a-82ec-4f63-a737-90f957fe03bf")
 		(at 156.35 60.508021)
@@ -6907,7 +6907,7 @@
 		)
 		(path "/698a829e-2103-4f6d-8621-de4a6a769071")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -6917,7 +6917,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "16438a09-2dd3-40c9-944a-072b0daec160")
+			(uuid "e239d61b-effe-4279-a60f-824d5cef74da")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -6927,7 +6927,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "db4d8df4-2fac-44a4-8560-082f05adc2f9")
+			(uuid "0de9a11a-5218-40af-8dbd-d438e03d46ee")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -6937,7 +6937,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a4928e3d-0662-45c2-94a5-dbdf8ebf9fe7")
+			(uuid "4247ce97-960c-486c-ba7c-6b152c99aa46")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -6947,7 +6947,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ae8ed08-0e11-429c-94cf-abc41fa8ff01")
+			(uuid "7d707fcd-ff40-40ab-8ed4-fc4157e31d0c")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -6957,7 +6957,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7e37ffc6-a8f1-43be-8a07-10c8394b4caa")
+			(uuid "cd4f4194-59ee-429f-929d-9b1c2f10bd28")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -6967,7 +6967,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d9915fdd-e357-4976-b70b-e7e0e5e6b9f6")
+			(uuid "a6e86176-8fc6-4492-a3e8-197db88d30a0")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -6977,7 +6977,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "de56cb28-abdf-4cbc-adea-1a0c1f32d171")
+			(uuid "5dae38d0-a7d7-4f8b-a9b5-0be56fcba5b5")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -6987,7 +6987,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dbdef2ec-289e-458f-8285-a6ae9b00173e")
+			(uuid "d59bfaa0-d078-431f-bc2d-b4a232cd3ad9")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -6997,7 +6997,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "97aaa06a-dd0b-4e02-ab34-138795ab4729")
+			(uuid "762f5052-1c7a-4efd-a363-344e2e49b398")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -7007,7 +7007,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b84d92fa-3981-4587-a250-f21e0d4a6210")
+			(uuid "a7cd6af7-4d76-493d-bcee-7be85947ffe2")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -7017,7 +7017,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "18e996ff-cacf-4c10-ac94-5241829b3fad")
+			(uuid "3a47df5d-6de2-4b74-a79e-3fae6fbbb3c0")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -7027,7 +7027,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ac387d3a-ca69-4f35-9fdb-ec36004cd9bd")
+			(uuid "a099afa6-95f5-4303-92da-b4892c642fd5")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -7037,7 +7037,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "38becf3a-c974-4a95-862c-a934bab2b70e")
+			(uuid "61181ec5-d088-4632-9dae-2b9c33e3152a")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -7047,7 +7047,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "197cbc35-1729-4634-8846-a91da535387e")
+			(uuid "47476db8-d3d9-46b3-ace1-ebf8cd015189")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -7057,7 +7057,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "16e18399-64dc-4f29-9774-008cf29fd64f")
+			(uuid "a7496c50-8c4d-4ce0-a417-c49d18e86e6b")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -7067,7 +7067,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "71b9378d-a5f9-4d69-be11-65cc2823e8d1")
+			(uuid "c2271d37-fc44-4ae1-be8d-0e7197f2c704")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -7085,21 +7085,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0064268b-0e7f-49b9-81ef-f541eeaca662")
+			(uuid "cfdc2612-0142-4718-8cf9-a4fa967b83fe")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "10e059e4-12ec-4df1-a01e-76ae98208ac0")
+			(uuid "85d1f5e4-0a1d-4f7e-b734-09d3e5a83043")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9e4ef0ff-3bd1-447c-999e-c89eeab12547")
+			(uuid "a9c198be-387f-405d-bb0a-31a9278a80da")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -7124,7 +7124,7 @@
 			(uuid "7da5e88d-29fe-4461-b7f9-edd1842a92f7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7136,7 +7136,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "dd0ad9bf-e47a-41bd-8f94-cc6e97444377")
 		(at 99 60.430551)
@@ -7192,7 +7192,7 @@
 		)
 		(path "/2d5ae0b4-b8b1-4ae6-98c9-be7464bb6222")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -7202,7 +7202,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2b7507cd-6226-494c-a3ff-df1512a03552")
+			(uuid "4d1181a3-7091-4922-b782-542630b57321")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -7212,7 +7212,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "40098bee-4a82-4a36-b0f3-0fdb4a75f64e")
+			(uuid "04280f61-10a6-4d1f-a690-c66492689484")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -7222,7 +7222,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "20664766-496c-4a92-8955-4b384ca4c367")
+			(uuid "2fb7bfbe-e2e7-4b79-a77d-694e84587b74")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -7232,7 +7232,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "670d3c26-0e93-4949-a3fa-7cbedf0f527c")
+			(uuid "4c46c64a-8ef3-474a-8ed4-07bf234c005b")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -7242,7 +7242,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b5a378be-73cf-4751-b4f3-97c32aa50322")
+			(uuid "c82519db-0efb-4734-a161-5ac13abba340")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -7252,7 +7252,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6c0d6fea-74da-46a5-9481-fe79d11b1612")
+			(uuid "caf3b0f2-a502-45b6-b287-1a7ea4ac6dae")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -7262,7 +7262,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "05514206-fdc9-4ac0-8b1f-e485bb4aabda")
+			(uuid "0d60b3ab-aee4-4a0d-9344-aa6a5df8fca2")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -7272,7 +7272,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f11aed5a-5c7a-4bc3-be08-f80daf171786")
+			(uuid "72907ce8-5a69-4396-b548-8d1e5b873bb7")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -7282,7 +7282,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "98c63e86-df0f-46a6-a6ed-36496d145071")
+			(uuid "0fcefef8-e71f-4537-af4e-e50dc0327805")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -7292,7 +7292,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fafa0327-0e1a-4cea-b1af-be637e5147c7")
+			(uuid "3f55b288-0843-41f9-a29b-1ea43f3b618f")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -7302,7 +7302,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6cf49085-7f5a-48a1-a617-813e74a3ad4c")
+			(uuid "b639376a-8cb0-4e09-8731-1787841e8313")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -7312,7 +7312,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2a0e7212-a792-4334-a0ae-51e98f30623a")
+			(uuid "b0aecb6f-52e6-48a7-ac1e-3f9fe9f8ddbb")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -7322,7 +7322,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6f76c955-d306-446a-9fb6-5483dae4e4e4")
+			(uuid "d0909a8d-9658-4312-8700-e23ae622ac8f")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -7332,7 +7332,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "106fe05b-7137-4b8b-a6c2-55125fd58450")
+			(uuid "ddc5e312-9828-4fea-99ce-7fc22c3d1291")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -7342,7 +7342,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ef614759-03d6-48b0-88f1-49f68519cf0e")
+			(uuid "e6adae40-17a4-43d4-9f63-558b733655c3")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -7352,7 +7352,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "584e1855-96c4-49c1-8788-b6b067336546")
+			(uuid "8a63af9a-e768-4311-94fb-01720bdd5c68")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -7370,21 +7370,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "749a6bb1-f5be-47d8-b4a2-065072beae55")
+			(uuid "0f1d4bd8-ee33-4f02-84b1-8b6c04712255")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "3925fdfb-8bf6-4927-a7ff-4916138e66ce")
+			(uuid "83a50d3d-8773-43a9-a9bc-a0454f81a149")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ad471286-f730-4e38-91fa-4fddb8cf9d20")
+			(uuid "f357e2c7-2509-4f1c-96a4-2553819b1c61")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -7409,7 +7409,7 @@
 			(uuid "2af5193e-04b9-4f66-ae77-af464b198634")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7476,7 +7476,7 @@
 		)
 		(path "/95eb2916-b0e7-4aee-acee-0078a8989701")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.38 1.27)
@@ -7663,7 +7663,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e125ebaf-9505-446f-a3a4-bb7291f36649")
 		(at 118.126 118.022961)
@@ -7719,7 +7719,7 @@
 		)
 		(path "/c28e9a63-4d9d-42c9-90fa-a362d20a4e94")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -7729,7 +7729,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "40bbff41-30f4-4677-a415-3c005f9ab12e")
+			(uuid "4e1945b7-815b-4daf-b126-d618b7c702c5")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -7739,7 +7739,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1eea2f27-80aa-49a8-930d-716e3ebad68a")
+			(uuid "08ec37b8-d0dd-4562-88f6-bc9bfa927bcc")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -7749,7 +7749,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "64776b4a-8bef-47ce-8402-7b098c9749c5")
+			(uuid "98531637-3d1c-4661-8c83-2e2b6d276cb6")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -7759,7 +7759,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1a9fd39f-b6f8-4783-af4f-2a88e4d2401a")
+			(uuid "e46bf94d-f434-46d3-8061-a2e59e28772e")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -7769,7 +7769,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "53dee12e-2a04-4b1b-bb52-d217d148ba58")
+			(uuid "e1cf6794-594f-42e3-a77a-e1c778b6008f")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -7779,7 +7779,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3f39c7a6-dca5-41a9-8ba4-a9b2f636e013")
+			(uuid "2c03e17f-8740-4f3f-99e1-c5179af70175")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -7789,7 +7789,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ff7f62c3-8317-4426-b88a-11179f5ba61e")
+			(uuid "bf6408c0-d192-4cf2-bef7-436d5fe96644")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -7799,7 +7799,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "36e3742e-505d-47b7-8995-2bc4a68e96e5")
+			(uuid "c79b7de6-7618-4482-a165-2073e9c6dda8")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -7809,7 +7809,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "27db9f73-f542-433b-baa9-4db6e495b4d4")
+			(uuid "c711dd59-047f-4a17-ba84-edc77f54a63d")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -7819,7 +7819,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d08bfcca-0ce6-48af-a721-1a523b6c37b3")
+			(uuid "762dbf04-b974-4d0b-bbb7-b2e4257e2888")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -7829,7 +7829,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6523e933-7b70-4071-a0c2-77271f4fef88")
+			(uuid "c3825c40-8f50-4fab-8284-4939786b1391")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -7839,7 +7839,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ed75de01-ac42-4f06-b9da-c4b21beabe51")
+			(uuid "7afef5ba-6741-4ee4-9839-936837067234")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -7849,7 +7849,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "19aa2058-8b02-4a08-b4ed-a562ff9f7083")
+			(uuid "1fa90301-0ab8-4720-bea1-70e2ce9c9e3a")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -7859,7 +7859,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a47d1e7c-dd72-41ac-bda4-5148ac5cc6c2")
+			(uuid "007a1ee8-f389-4da5-b066-a94dcd53613a")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -7869,7 +7869,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c4bde976-f1e1-4e8b-a25d-897190bb50a5")
+			(uuid "969cd960-440c-4365-ad7b-96689a6af4dd")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -7879,7 +7879,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9843911a-817a-4b08-a57b-6714e8ff61ac")
+			(uuid "6ee748d8-6703-4c59-9ac2-18994b1b988e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -7897,21 +7897,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "80e5b94d-ed6c-4320-af2c-da566a87a057")
+			(uuid "fd1bda10-55e0-4fcd-a40e-5ca577eb6f0c")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c5d139ed-d31d-472a-aa8e-7f3a270c3eaf")
+			(uuid "e27bb592-af4e-4ce8-acd8-c8c5a1d74338")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "09a98eb0-cbfc-435e-b11f-42320c4294fa")
+			(uuid "85e0d631-ca31-4c46-aefe-c9230fdd1af8")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -7936,7 +7936,7 @@
 			(uuid "dd2215dd-2ef9-4be8-8d54-1e9a7d541a3e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8003,7 +8003,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/57432e48-395f-4bb4-a399-bbab17779563")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 -1.33)
@@ -8460,7 +8460,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "ec229a33-62da-410f-9fc0-c49751a783b9")
 		(at 156.35 79.675491)
@@ -8516,7 +8516,7 @@
 		)
 		(path "/9dca4f75-fdc7-4b6b-8b92-d5c0dcbb4f04")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -8526,7 +8526,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "13f019aa-3cc0-4698-a3af-48e9babe34c6")
+			(uuid "c872af65-dbef-48f6-920d-fcb9c049a738")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -8536,7 +8536,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "68f339b4-f90e-492a-a4d2-f5b7f8b4f0f2")
+			(uuid "061a9401-ceb1-47f4-8249-452102745d2b")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -8546,7 +8546,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "836d7bba-a17c-479a-9ddc-c9bd20c375e8")
+			(uuid "ea6a43ff-7d03-4a6a-9b05-f4911805e5b4")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -8556,7 +8556,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d710cfb6-155e-404f-ad64-69ced5b9ee93")
+			(uuid "a471d615-5d7a-4bf9-9e82-9cec2b7c342e")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -8566,7 +8566,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a79e4545-248c-4d69-91f8-62923f7eb390")
+			(uuid "09d03d18-f0a6-4d28-9ed9-354e9b605275")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -8576,7 +8576,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a4a6cba9-2c4a-4154-b938-df2de816d48a")
+			(uuid "80242766-b0c0-4d9f-8b87-9f9fa466c7d3")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -8586,7 +8586,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f9de5669-08d6-4dc9-b1fe-97bc7e316e3e")
+			(uuid "d0b7dc3c-a179-48dd-9b04-88c243ee33c7")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -8596,7 +8596,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ade1739a-456a-4173-9660-fc98224d4617")
+			(uuid "be0e2047-ace0-494c-9948-5d51cd4cdc72")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -8606,7 +8606,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "84ed82eb-290a-4328-ad4e-da66ac9b8de2")
+			(uuid "a4c04931-43f1-407f-9835-9250ae4cc968")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -8616,7 +8616,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c11b1da8-5690-4797-be5a-50782088441a")
+			(uuid "ae0a3fae-b7ee-43dc-9322-8a0d2542db23")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -8626,7 +8626,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a154be9a-38bf-40a8-872f-d7a02af8c6eb")
+			(uuid "64d13f81-a9d3-4753-8469-31313b309b07")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -8636,7 +8636,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7a8a88aa-3818-4ece-a10e-e995b49006e1")
+			(uuid "b7a7ab75-8cf2-4e9a-bbc6-e22813f369cf")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -8646,7 +8646,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9a3a1d4f-fe86-40f9-b4f7-00c48eea5691")
+			(uuid "d09e858b-c29a-4b1b-bc69-bfbb286fd691")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -8656,7 +8656,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2917c7be-348a-431f-a731-22ce6b8f9a05")
+			(uuid "56bc5c93-a435-4485-9894-ea21a81aae81")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -8666,7 +8666,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f2985917-abec-42bc-a8a9-5b44bffbe990")
+			(uuid "c2f448ff-6b95-43aa-a856-b2dba12e8812")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -8676,7 +8676,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2ac5eb03-2e3a-4dfb-b11e-aed80ab5b2a8")
+			(uuid "6a52c3a3-a040-4008-9d29-d63bb3aff294")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -8694,21 +8694,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7bb96d48-9f9b-4a33-83a4-28e043b03c22")
+			(uuid "6cdf6077-2aca-43d5-bb59-1a552c53a240")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ec6662e2-5fe1-4eda-8707-694dd8332497")
+			(uuid "75003ac1-ad31-4fac-89b8-e28cb3d7af90")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "dd97dda4-4851-43a0-bbfd-166ca8a205c5")
+			(uuid "5414cf7b-86b0-47fd-974e-a8b34e57dd9c")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -8733,7 +8733,7 @@
 			(uuid "4af27793-a908-4900-9a16-45edcd330f83")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8745,7 +8745,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f0ad8f10-4bd6-449f-a091-a4048a8f41bf")
 		(at 99 79.598021)
@@ -8801,7 +8801,7 @@
 		)
 		(path "/29177935-5bd4-43b1-990c-0c723feb22ca")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -8811,7 +8811,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ecd4acdf-b529-452b-92e8-8c5e37f0cc00")
+			(uuid "421d0aea-95f4-46d8-85fa-fed822f2b0be")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -8821,7 +8821,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "873d0dd5-2071-45fa-97a5-3474a1640112")
+			(uuid "b99a51d7-ce29-4561-b4df-adf9b90a7f9a")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -8831,7 +8831,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c6ccbcb2-4007-4292-98e6-a5539a0e48e1")
+			(uuid "382c03c0-5f6a-4284-aea0-5b3a64ea2dec")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -8841,7 +8841,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "18e2cdf5-d99c-42a2-ab92-026f45a0ed50")
+			(uuid "ef394a09-3577-4289-8b73-a0583f66c1a9")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -8851,7 +8851,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1d3ae861-ba8c-48b4-be4c-eb393ec01ced")
+			(uuid "1d103171-9ed7-4b81-b8fe-73a17383e22d")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -8861,7 +8861,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b14cf56f-0e07-492f-a686-a316f6eb34d6")
+			(uuid "d4196b5d-96df-4b2f-946d-1b35c21c95c2")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -8871,7 +8871,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "9addab92-c2c0-4abe-a4a2-b9d04a438506")
+			(uuid "7e8a36d2-9a76-4a29-b526-91c80b12e08c")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -8881,7 +8881,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f99cd774-9c35-4689-a6c7-dbcc6596685d")
+			(uuid "6c5d44ad-92a8-48c2-86ed-6bf089fd204f")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -8891,7 +8891,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "25842d01-cc92-408d-a2e5-c626890f6719")
+			(uuid "81cb7b9c-81ff-41dc-a867-ced4fcc3fb0e")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -8901,7 +8901,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9cebf6a7-655f-4664-ae2c-3062e417c4fb")
+			(uuid "4ca8d834-a947-42b4-8342-d2433bf5327a")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -8911,7 +8911,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9b540f2f-d5ac-48e4-84c5-93d26b8672fd")
+			(uuid "3ebd6251-c387-4418-8bc8-3ea1baf2b48e")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -8921,7 +8921,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a46fed8c-c71c-43b6-8e09-71da48215bb7")
+			(uuid "227ba3fe-869e-4e23-b4b8-5ceb76627e51")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -8931,7 +8931,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "73da059f-68e6-4635-a158-c093c4307604")
+			(uuid "72fc5841-0c3c-46f9-817d-0bbad439a531")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -8941,7 +8941,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "79dd2722-05d5-4a72-8a9d-6198b317513c")
+			(uuid "c2407637-529c-46de-b857-2dc2d0bc9b83")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -8951,7 +8951,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5ffc6ed3-3742-4dcf-940d-89cf8813f344")
+			(uuid "840d7971-f8fe-4456-919e-7e375dcbf85d")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -8961,7 +8961,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7f087703-0a4d-48da-988e-ebf18f00e3fb")
+			(uuid "69885bcd-e199-44b2-af2a-ddb2db4865b1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -8979,21 +8979,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "5e23bfef-f4a8-4d2b-a148-928655611f53")
+			(uuid "bd098362-6855-4cb7-9404-d339099c109c")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "edbaec18-8a54-4217-9def-8a59dd5ea24c")
+			(uuid "2db86bb3-cefc-4f9d-b74f-1c7a877d1e05")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "317b5bcc-64d5-4e5d-971b-a28902392bb9")
+			(uuid "41796602-6196-4e9d-b62e-c2eb9e591898")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -9018,7 +9018,7 @@
 			(uuid "5ad25474-c170-46fd-b6f4-4263448acced")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9030,7 +9030,7 @@
 			)
 		)
 	)
-	(footprint "Alps_Solderable:SW_Cherry_MX_1.00u_PCB"
+	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f4adf68c-f363-4128-80a7-158839091715")
 		(at 99 117.945491)
@@ -9086,7 +9086,7 @@
 		)
 		(path "/444ab561-64e9-46f0-9cdc-796191f93019")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 -1.905)
@@ -9096,7 +9096,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0c180f81-de81-46c1-8734-2a6dc92844cf")
+			(uuid "fdfea7f3-cd26-4b5a-b587-941e74933bec")
 		)
 		(fp_line
 			(start -9.525 12.065)
@@ -9106,7 +9106,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c44c7497-1b6e-4aba-a79d-829ac934b996")
+			(uuid "b124a44a-df22-444a-99ab-3c3b244fbe94")
 		)
 		(fp_line
 			(start 4.445 -1.905)
@@ -9116,7 +9116,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79e0a59f-0a21-48b4-adaa-90bf144b62ef")
+			(uuid "419122ae-9ec0-4b6e-a0a6-ea88cf2e629a")
 		)
 		(fp_line
 			(start 4.445 12.065)
@@ -9126,7 +9126,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e6e5858d-b12a-4c5d-a97b-f68cfd955a8a")
+			(uuid "0c674abf-b846-4398-9999-01bf2a84494b")
 		)
 		(fp_line
 			(start -12.065 -4.445)
@@ -9136,7 +9136,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2d1f721b-0879-456c-8b41-b0fea2d7dad6")
+			(uuid "ac556eef-9ac7-4360-9b1b-b934fb82d313")
 		)
 		(fp_line
 			(start -12.065 14.605)
@@ -9146,7 +9146,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "4d087b21-de07-4ac3-98f6-2f1558b8fa14")
+			(uuid "2bc6f43a-7e23-4ec4-86d6-aef02a6d848e")
 		)
 		(fp_line
 			(start 6.985 -4.445)
@@ -9156,7 +9156,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c2c3af1b-2292-4c30-b856-1f9219f0c206")
+			(uuid "04f93f6e-8f98-48a0-a22f-7406f7ed129c")
 		)
 		(fp_line
 			(start 6.985 14.605)
@@ -9166,7 +9166,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6e1efe1f-f19f-4f68-b055-4db5fee7c7ca")
+			(uuid "61870958-9ab1-4551-8b68-49afdd0421f9")
 		)
 		(fp_line
 			(start -9.14 -1.52)
@@ -9176,7 +9176,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4a1d0208-998f-4c9d-834a-8018b1ca71d6")
+			(uuid "1ebc1b71-a6d6-464b-a67e-2f687a2cef22")
 		)
 		(fp_line
 			(start -9.14 11.68)
@@ -9186,7 +9186,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cd28d3ff-4bd8-4483-bf98-368f852f45bb")
+			(uuid "ff77b468-8158-4eae-9869-cdfa3d082d5e")
 		)
 		(fp_line
 			(start 4.06 -1.52)
@@ -9196,7 +9196,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3ecca4f9-5e07-4bb8-ba07-d0e33e1daf43")
+			(uuid "9ca9c0ae-b4cd-4367-828e-153c76b43c77")
 		)
 		(fp_line
 			(start 4.06 11.68)
@@ -9206,7 +9206,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "15f064d5-f804-4c88-95cb-2923291f5bdc")
+			(uuid "d55511b7-c2f9-4adc-b685-db4aaf21fcf1")
 		)
 		(fp_line
 			(start -8.89 -1.27)
@@ -9216,7 +9216,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4e5eb5c6-db27-4f48-96d0-01f221086a4e")
+			(uuid "d389df23-7192-457e-92e2-64d889f46c74")
 		)
 		(fp_line
 			(start -8.89 11.43)
@@ -9226,7 +9226,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "eca2e65d-d195-44cf-bd02-130396ea89a4")
+			(uuid "3ca89be2-a9af-4d39-87c2-a7710c276229")
 		)
 		(fp_line
 			(start 3.81 -1.27)
@@ -9236,7 +9236,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "010decf4-9e52-4a46-9867-878bfa2af607")
+			(uuid "439472e1-37c7-42e5-94c3-f721e871ccf4")
 		)
 		(fp_line
 			(start 3.81 11.43)
@@ -9246,7 +9246,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "34a7202d-78e8-4180-8df2-333e9bc7fb14")
+			(uuid "0311e541-4f28-4461-9ed6-86832a252dec")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -2.794 0)
@@ -9264,21 +9264,21 @@
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "df8dc95d-8940-462c-94e9-0e66f2379529")
+			(uuid "2ff27ff4-5acc-4d43-8573-7e445318b007")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 5.08)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c0567e28-8962-4dc1-af8b-f9ea9c784e59")
+			(uuid "678ee4e9-2e97-430f-aabf-ad3b481a1342")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.54 5.08)
 			(size 1.7 1.7)
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "dbf64fdb-9c87-4c1e-86d4-e034c1aa13eb")
+			(uuid "904001fd-18ec-4e68-b59c-4254ee120e11")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -9303,7 +9303,7 @@
 			(uuid "2c70fb42-489f-4e5a-b7b2-5770a7e5fa39")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9402,7 +9402,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/0bff281e-042e-49e7-96a2-93045daa4efe")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -9696,7 +9696,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/e7f50d5a-ed87-4776-97e3-be003fc8599d")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -9990,7 +9990,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/f08f9590-be0d-44ab-8546-48ae9049a6de")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -10284,7 +10284,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/ae35c1d1-fca2-48c7-938a-6cb5e919d211")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -10578,7 +10578,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/fd980198-63ea-434d-bddd-e11df54bbfe5")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -10872,7 +10872,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/e9983d78-b533-49ef-80d1-28ff7b44eda5")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -11166,7 +11166,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/baff6d14-e83a-4cad-8f4c-cc5bed00601c")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -11460,7 +11460,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/0edb96b6-9eb6-443a-91b8-68e4e704baa1")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -11726,7 +11726,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4624687d-d139-455c-aa46-cca28c7ed61c")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -11934,7 +11934,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d2ad17bc-af7d-49b6-a836-6a522d73eccb")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -12142,7 +12142,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/492257bf-82b0-4fa2-91e2-b4afdac24ad6")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -12350,7 +12350,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da081824-9ab1-4558-a41c-1c75ea5910df")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -12472,7 +12472,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 29 "VCC")
+			(net 31 "+3.3V")
 			(pintype "passive")
 			(uuid "2f568189-4e5e-453d-9d7b-57913d2bc81e")
 		)
@@ -12558,7 +12558,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/53ff927c-a7aa-4d0c-8b41-11915ea5d5d3")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.12 1.37)
@@ -12746,7 +12746,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2a7ab66c-075c-410b-ab1c-761534be06d9")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -12982,7 +12982,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d2c3778f-e55f-4032-a935-fe7d36d15503")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -13276,7 +13276,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/6ff93de0-c169-4c26-ba22-5a7189652405")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -13570,7 +13570,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/985a7540-9422-4ee9-83c1-e12982fbcc13")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -13864,7 +13864,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/511cf027-74d1-4ec8-a2a4-a9632561abb9")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -14158,7 +14158,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/17077be6-92c4-4131-b48f-d7fd472b3619")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -14452,7 +14452,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/359685d8-07b5-4c1e-9a9e-65967aafa33e")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -14746,7 +14746,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/bf8b2403-baa0-4f4d-9047-2ebe65007bcb")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -15012,7 +15012,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8f49fd90-c000-4aec-a3a7-645b18db4602")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -15248,7 +15248,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/cc0b7d14-4799-4dfd-a129-b39a47afb678")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -15514,7 +15514,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f4ffc819-0b1d-40a7-8485-fa58b56d4738")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -15722,7 +15722,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cbb85ec7-685d-48a7-a519-5c82f9b896db")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -15844,7 +15844,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 29 "VCC")
+			(net 31 "+3.3V")
 			(pintype "passive")
 			(uuid "8d7481e6-bbde-47bc-a6ac-d859a1cc7a98")
 		)
@@ -15930,7 +15930,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e8906e89-91c0-4025-895a-91d30fd5bac3")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -16138,7 +16138,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c16fc9c8-c38e-4536-bf2a-58e2226fcce2")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -16374,7 +16374,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/211acc09-f129-470c-b9d4-630012600022")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -16668,7 +16668,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/56597f7a-2d0f-48f5-8abf-58ad0709a9a5")
 		(sheetname "/")
-		(sheetfile "Hackpad_PCB_Gwendal_revA.kicad_sch")
+		(sheetfile "Hackpad_PCB_Gwendal_revB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -27649,22 +27649,6 @@
 		(uuid "c13d4a7f-5c7f-43c8-a372-555ad7f65220")
 	)
 	(segment
-		(start 147.5 44.5)
-		(end 147.5 43)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 29)
-		(uuid "05faba6a-6dc5-42f2-b003-76ec9de086c2")
-	)
-	(segment
-		(start 147.5 46.5)
-		(end 147.5 44.5)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 29)
-		(uuid "17882623-9091-4a12-88de-5670ccd1b84c")
-	)
-	(segment
 		(start 151.65 44)
 		(end 151.65 43.92)
 		(width 0.2)
@@ -27673,23 +27657,23 @@
 		(uuid "655be518-f065-4958-9d6f-4641afd9ed8f")
 	)
 	(segment
-		(start 147.5 44.5)
-		(end 148 44)
+		(start 150 39)
+		(end 150.5 38.5)
 		(width 0.2)
-		(layer "F.Cu")
+		(layer "B.Cu")
 		(net 29)
-		(uuid "847a6e8e-9a40-4b20-85b9-e7a1a02899be")
+		(uuid "2e8eaf21-e7c7-4f64-a9c4-40d96986a101")
 	)
 	(segment
-		(start 148 44)
-		(end 151.65 44)
+		(start 150 39)
+		(end 150 42.27)
 		(width 0.2)
-		(layer "F.Cu")
+		(layer "B.Cu")
 		(net 29)
-		(uuid "95565b59-4a5a-46d6-a3a4-873caaf906d6")
+		(uuid "33f0b0f4-d8b8-426b-8d87-5b842d5c0fb4")
 	)
 	(segment
-		(start 150 38.5)
+		(start 150.5 38.5)
 		(end 155 38.5)
 		(width 0.2)
 		(layer "B.Cu")
@@ -27713,14 +27697,6 @@
 		(uuid "735df3fd-6388-4a1d-85e2-00c077253526")
 	)
 	(segment
-		(start 147.5 43)
-		(end 147.5 41)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "80a8c04c-c335-4859-b90a-ddeccdaff24f")
-	)
-	(segment
 		(start 155 38.5)
 		(end 158 35.5)
 		(width 0.2)
@@ -27729,12 +27705,12 @@
 		(uuid "886fcd0b-13c6-4cc8-9800-cfbd7172ffac")
 	)
 	(segment
-		(start 147.5 41)
-		(end 150 38.5)
+		(start 150 42.27)
+		(end 151.65 43.92)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 29)
-		(uuid "da15a547-a819-473e-8d7c-2ffdae8e6c4a")
+		(uuid "e1a5315a-9bc1-4c97-ae68-858b2f2d6b53")
 	)
 	(segment
 		(start 170.81 114.5)
@@ -27809,12 +27785,36 @@
 		(uuid "bbf0f9b1-3389-41aa-9ae2-062aee3bfce6")
 	)
 	(segment
+		(start 147.5 44.5)
+		(end 147.5 43)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "05faba6a-6dc5-42f2-b003-76ec9de086c2")
+	)
+	(segment
+		(start 147.5 46.5)
+		(end 147.5 44.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "17882623-9091-4a12-88de-5670ccd1b84c")
+	)
+	(segment
 		(start 176.5 129.5)
 		(end 179.5 126.5)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 31)
 		(uuid "19aaa013-d54b-4bc7-a501-ddc5891691ca")
+	)
+	(segment
+		(start 147.5 43)
+		(end 147.731 42.769)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "2f18f30b-ad65-438e-ac48-fd802812afa3")
 	)
 	(segment
 		(start 179.31 119.5)
@@ -27841,12 +27841,44 @@
 		(uuid "64417753-7947-4aee-9efe-7d83202c54e8")
 	)
 	(segment
+		(start 159.5171 44)
+		(end 164 44)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "b67808e4-e66f-4743-bfda-7633f9952d7c")
+	)
+	(segment
+		(start 147.731 42.769)
+		(end 158.2861 42.769)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "d0c0632d-8284-4450-81b5-c537e49f144c")
+	)
+	(segment
 		(start 179.5 126.5)
 		(end 179.5 119.5)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 31)
 		(uuid "d959104e-50b6-4340-9871-8c617abcfb0d")
+	)
+	(segment
+		(start 158.2861 42.769)
+		(end 159.5171 44)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "e085dbf1-083e-432b-a6e7-e1a4747f41f8")
+	)
+	(via
+		(at 164 44)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 31)
+		(uuid "40132bc9-3e40-49cf-a2b8-8a15ae1c526e")
 	)
 	(segment
 		(start 182.399 109.911)
@@ -27921,12 +27953,28 @@
 		(uuid "75a129e4-2b34-4ab6-915e-3bd1d0058cc4")
 	)
 	(segment
+		(start 175.68414 44)
+		(end 177.0145 42.66964)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 31)
+		(uuid "90686647-8e94-4015-aed8-80f1a6cfbe6a")
+	)
+	(segment
 		(start 177.62 102.24)
 		(end 177.24 102.24)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 31)
 		(uuid "abc65b7b-2628-4fdb-8703-d625ee24838a")
+	)
+	(segment
+		(start 164 44)
+		(end 175.68414 44)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 31)
+		(uuid "eb2a718d-eb64-4767-9501-8763bf76ef4a")
 	)
 	(segment
 		(start 177.69 125)
@@ -28575,9 +28623,8 @@
 			"4b16dc4c-f243-4bb8-bac6-183ca7df8cca" "4f64dc36-8a0a-4d8b-8d24-a283d8b76b6c"
 			"53b0bc6d-3173-4918-a666-68b1c53e3932" "641e46a4-edec-41dd-961d-129b62c98810"
 			"655be518-f065-4958-9d6f-4641afd9ed8f" "7f9c4f92-62dc-4c3b-a868-1e19cdc61483"
-			"847a6e8e-9a40-4b20-85b9-e7a1a02899be" "86b41ec6-11e9-42f9-95c7-080f750da74f"
-			"880a00b2-62cc-4e7d-b188-126e29f74b42" "918ce5fc-319d-4044-8a71-6f5e6b495ca2"
-			"95565b59-4a5a-46d6-a3a4-873caaf906d6" "98c33e17-953b-4764-804f-8c129f781cd3"
+			"86b41ec6-11e9-42f9-95c7-080f750da74f" "880a00b2-62cc-4e7d-b188-126e29f74b42"
+			"918ce5fc-319d-4044-8a71-6f5e6b495ca2" "98c33e17-953b-4764-804f-8c129f781cd3"
 			"98f535db-633b-4861-9e9f-fc247c0fd8bd" "9a657040-43a5-40f3-973b-953184a699b5"
 			"9ead5cbd-28c1-4470-9231-a2b71e885939" "a6bf6f10-0849-49a4-8cff-8074b9124ee5"
 			"aa517242-5b4f-4731-bd19-605553a0b771" "aaaa05c9-0380-47e9-b703-ac19e6ccbc73"
