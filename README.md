@@ -45,5 +45,5 @@ Optional :
 ## EXTRA STUFF :
 I designed this project in 4 days of vacation, learnt to use kicad and pcb design in general
 If firmware doesn't support 2 different I²C circuits, I added 0 ohm resistors (R9 and R10), that can be soldered shut to make a single I²C circuit, currently it uses 2 by default for speed and stability.
-I designed the case to be 3d printable without supports (exept the cutout bit on the top cover, purely for aesthetic purposes, feel free to fill it in to avoid supports entirely)
+I designed the case to be 3d printable without supports (exept the cutout bit on the top cover, purely for aesthetic purposes, feel free to fill it in to avoid supports entirely).
 I made some firmware that should support the matrix, but does not support the encoders nor the OLED screen yet, I am waiting until I have actually made the board to test it.
