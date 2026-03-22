@@ -1,5 +1,6 @@
 BOOTLOADER = rp2040
+CONSOLE_ENABLE = yes
 CUSTOM_MATRIX = lite
 I2C_DRIVER_REQUIRED = yes
-VPATH += drivers/gpio
-SRC += drivers/gpio/mcp23018.c
+I2C_DRIVER = hardware
+SRC += matrix.c
